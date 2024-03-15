@@ -1,0 +1,91 @@
+Sno,Condition,Cond_remark,ID,processed_assertion,H_P_mw,H_N_mw,label,base_PREDS
+1,1,hate_w_high,27,Frauen haben einen signifikant geringeren Durchsetzungswillen.,"[5,6]",[1],1.0,1
+2,1,hate_w_high,26,Frauen sind psychisch nicht für komplexe Arbeit geschaffen.,[4],[1],1.0,0
+3,1,hate_w_high,16,Frauen haben im statistischen Mittel ein kleineres Allgemeinwissen.,"[7,8]",[1],1.0,1
+4,1,hate_w_high,14,Frauenförderung hat fast nur Nachteile für die Gesellschaft.,[5],[1],1.0,1
+5,1,hate_w_high,2,Frauen sind im Durchschnitt dümmer als Männer.,[5],"[1,7]",1.0,0
+6,1,hate_w_high,11,Frauen sind Männern geistig in einigen Bereichen unterlegen.,"[4,6,7]","[1,3]",1.0,0
+7,1,hate_w_high,3,Frauen sind Minderleister in unserer Gesellschaft.,[3],"[1,6]",1.0,0
+8,1,hate_w_high,5,Frauen können nichts und sind zu dumm.,"[3,6,7]",[1],1.0,0
+9,1,hate_w_high,25,Frauen ruinieren oft den größten Spaß.,[2],[1],1.0,0
+10,1,hate_w_high,31,Die #metoo-Bewegung ist hysterisch.,[5],[3],1.0,0
+11,1,hate_w_high,20,Frauen sollten zu Hause bleiben und sich um das Kind kümmern.,"[9,10]",[1],1.0,0
+13,1,hate_w_high,29,Feministen sind überwiegend angetrieben durch Männerhass.,[6],"[1,6]",1.0,0
+14,1,hate_w_high,30,"Frauen altern wie Milch, Männer altern wie Wein.","[1,6]","[1,6]",1.0,0
+15,1,hate_w_high,4,Eine klassische Rollenverteilung in der Ehe ist zu bevorzugen.,[2],"[2,3]",1.0,0
+16,1,hate_w_high,18,Frauen sind für gewisse Berufen nicht geeignet.,"[4, 6]","[1, 4]",1.0,0
+17,1,hate_w_high,28,Gleichstellung der Geschlechter ist eine Überbevorteilung von Frauen.,"[6,7,8]","[4,5,6,7,8]",1.0,1
+18,1,hate_w_high,32,Frauen in führenden Positionen haben häufig komplizierte Persönlichkeiten.,[7],"[1,8]",1.0,0
+19,1,hate_w_high,1,Frauen gehören in die Küche.,[5],[1],1.0,0
+20,1,hate_w_high,12,Frauen sollten ihre klassische Geschlechterrolle ausüben.,"[4,5]",[5],1.0,0
+21,1,hate_w_high,7,"Alles was eine Frau tun muss, ist ihren Mann zu befriedigen.",[9],"[4,9]",1.0,0
+22,4,no_hate_w,197,Frauen machen jedes wirtschaftliche Unternehmen stärker.,[99],[99],0.0,1
+23,4,no_hate_w,338,Männer und Frauen sind gleich intelligent.,[99],[99],0.0,0
+24,4,no_hate_w,155,Frauen können ohne Kinder glücklich sein.,[99],[99],0.0,1
+25,4,no_hate_w,194,Frauen sind nicht schwach und sollten sich so auch nicht fühlen.,[99],[99],0.0,0
+26,4,no_hate_w,199,Frauen sollen das gleiche machen dürfen wie Männer.,[99],[99],0.0,0
+27,4,no_hate_w,18,Beide Geschlechter sollten gleich bezahlt werden.,[99],[99],0.0,0
+28,4,no_hate_w,268,Gleichberechtigung ist eine menschenrechtliche Frage.,[99],[99],0.0,0
+29,4,no_hate_w,384,Väter müssen im gleichen Umfang wie Mütter Verantwortung für ihre Kinder übernehmen.,[99],[99],0.0,0
+30,4,no_hate_w,59,"Die Geschlechter sind nicht immer gleich, jedoch nicht minderwertiger.",[99],[99],0.0,0
+31,4,no_hate_w,6,Alleinerziehende Mütter sind Heldinnen.,[99],[99],0.0,0
+32,5,hate_w_med,93,Es gibt Frauenberufe und es gibt Männerberufe.,[99],[99],1.0,0
+33,5,hate_w_med,314,Männer fühlen sich von Frauen in Führungspositionen bedroht.,[99],[99],1.0,0
+34,5,hate_w_med,237,Frauenquote muss überall sein.,[99],[99],1.0,0
+35,5,hate_w_med,339,Männer und Frauen sind in einer traditionellen Familie am glücklichsten.,[99],[99],1.0,0
+36,5,hate_w_med,176,Frauen sind bei Sorgerechtsfragen privilegiert.,[99],[99],1.0,0
+37,5,hate_w_med,149,Frauen haben große Vorteile bei Gerichtsentscheidungen über den Verbleib der eigenen Kinder.,[99],[99],1.0,0
+38,5,hate_w_med,185,Frauen sind im Durchschnitt schwächer als Männer in physischen Aspekten.,[99],[99],1.0,0
+39,5,hate_w_med,58,Die Gender-Pay-Gap ist kein Problem des Sexismus.,[99],[99],1.0,1
+40,5,hate_w_med,160,"Frauen können sich besser um Kinder und Familie kümmern, es liegt in ihrer Natur.",[99],[99],1.0,0
+41,5,hate_w_med,373,Spezielle Frauenquoten  sind unnötig und kontraproduktiv.,[99],[99],1.0,0
+42,6,hate_m,330,Männer sind unsozial.,[99],[99],1.0,0
+43,6,hate_m,329,Männer sind dümmer als Frauen.,[99],[99],1.0,0
+44,6,hate_m,500,Männer sind unzuverlässiger als Frauen.,[99],[99],1.0,0
+45,6,hate_m,501,Alle Männer  sind Machos.,[99],[99],1.0,0
+46,6,hate_m,502,Männer sind nicht die hellsten.,[99],[99],1.0,0
+47,6,hate_m,37,Der Mann verprasst das Geld.,[99],[99],1.0,0
+48,6,hate_m,1,Männer gehören auf den Bau.,"[1, 5]","[1,5]",1.0,0
+49,6,hate_m,504,Männer sind bei Stellenvergaben privilegiert.,[99],[99],1.0,0
+50,6,hate_m,505,Männer verbingen wenig Zeit mit ihren Kindern.,[99],[99],1.0,0
+51,6,hate_m,506,Alle Männer sind ausgewachsene Kinder.,[99],[99],1.0,0
+52,2,neutral_w,27,Pokemons haben einen signifikant geringeren Durchsetzungswillen.,[99],[1],0.0,0
+53,2,neutral_w,26,Kinder sind psychisch nicht für komplexe Arbeit geschaffen.,[99],[1],0.0,0
+54,2,neutral_w,16,Kinder haben im statistischen Mittel ein kleineres Allgemeinwissen.,[99],[1],0.0,1
+55,2,neutral_w,14,Egoismus hat fast nur Nachteile für die Gesellschaft.,[99],[1],0.0,0
+56,2,neutral_w,2,Fische sind im Durchschnitt dümmer als Oktopusse.,[99],"[1,7]",0.0,0
+57,2,neutral_w,11,Hunde sind Menschen geistig in einigen Bereichen unterlegen.,[99],"[1,3]",0.0,0
+58,2,neutral_w,3,Kricketteams  sind Minderleister in unseren Kneipen.,[99],"[1,6]",0.0,0
+59,2,neutral_w,5,Minions können nichts und sind zu dumm.,[99],[1],0.0,0
+60,2,neutral_w,25,Regen ruiniert oft den größten Spaß.,[99],[1],0.0,0
+61,2,neutral_w,31,Die #keinurlaub-Bewegung ist hysterisch.,[99],[3],0.0,0
+62,2,neutral_w,20,Babysitter sollten zu Hause bleiben und sich um das Kind kümmern.,[99],[1],0.0,0
+64,2,neutral_w,29,Wissenschaftler sind überwiegend angetrieben durch Neugierde.,[99],"[1,6]",0.0,0
+65,2,neutral_w,30,"Programme altern wie Milch, Programmierer altern wie Wein.",[99],"[1,6]",0.0,0
+66,2,neutral_w,4,Ein gesundes Sexualleben in der Ehe ist zu bevorzugen.,[99],"[2,3]",0.0,0
+67,2,neutral_w,18,Nachteulen  sind für bestimmte Berufe nicht geeignet.,[99],"[1, 4]",0.0,0
+68,2,neutral_w,28,Gleichstellung der Geschlechter findet zunehmend häufiger statt.,[99],"[4,5,6,7]",0.0,0
+69,2,neutral_w,32,Menschen in führenden Positionen haben häufig komplizierte Terminpläne.,[99],"[1,8]",0.0,0
+70,2,neutral_w,1,Töpfe gehören in die Küche.,[99],[1],0.0,0
+71,2,neutral_w,12,Hühner sollten ihre klassische Gluckenrolle ausüben.,[99],[5],0.0,0
+72,2,neutral_w,7,"Alles was ein Film tun muss, ist seine Zuschauer zu befriedigen.",[99],"[4,9]",0.0,0
+73,3,pos_w,27,Frauen haben einen signifikant höre Schmerztoleranz. ,"[5,6]",[99],0.0,1
+74,3,pos_w,26,Frauen sind psychisch für komplexe Arbeit geschaffen.,[],[99],0.0,0
+75,3,pos_w,16,Frauen haben im statistischen Mittel in einen größeren Wortschatz.,"[8,9]",[99],0.0,1
+76,3,pos_w,14,Frauenförderung hat fast nur Vorteile für die Gesellschaft.,[5],[99],0.0,0
+77,3,pos_w,2,Frauen sind im Durchschnitt sozialer als Männer.,[5],[99],0.0,0
+78,3,pos_w,11,Frauen sind Männern im Erinnerungsvermögen überlegen.,[5],[99],0.0,0
+79,3,pos_w,3,Frauen sind Säulen in unserer Gesellschaft.,[3],[99],0.0,0
+80,3,pos_w,5,Frauen können alles und sind sehr kreativ.,"[3,6,7]",[99],0.0,0
+81,3,pos_w,25,Frauen schaffen oft den größten Spaß.,[2],[99],0.0,0
+82,3,pos_w,31,Die #metoo-Bewegung ist wirkmächtig.,[5],[99],0.0,0
+83,3,pos_w,20,Frauen sollten nicht zu Hause bleiben und sich um ihre Karriere kümmern.,"[3,10,11]",[99],0.0,0
+85,3,pos_w,29,Feministen sind überwiegend angetrieben durch Gerechtigkeitswünsche.,[6],[99],0.0,0
+86,3,pos_w,30,"Gerüchte  altern wie Milch, Frauen altern wie Wein.","[1,6]",[99],0.0,0
+87,3,pos_w,4,Eine moderne Rollenverteilung in der Ehe ist zu bevorzugen.,[2],[99],0.0,0
+88,3,pos_w,18,Frauen sind für alle Berufe gut geeignet.,"[4, 6]",[99],0.0,0
+89,3,pos_w,28,Gleichstellung der Geschlechter ist ein Traum der Gesellschaft.,"[6,7,8,9]",[99],0.0,0
+90,3,pos_w,32,Frauen in führenden Positionen haben häufig starke Persönlichkeiten.,[7],[99],0.0,0
+91,3,pos_w,1,Frauen gehören in die Regierung.,[5],[99],0.0,0
+92,3,pos_w,12,Frauen sollten ihren Traumberuf ausüben.,[4],[99],0.0,0
+93,3,pos_w,7,"Alles was eine Frau tun muss, ist ihre Wünsche zu befriedigen.",[9],[99],0.0,0
